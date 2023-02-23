@@ -159,13 +159,19 @@
     .weather_description {font-size: 47px;}
     .location {font-size: 25px;}
     .date {font-size: 22px;}
-    .temp {font-size: 75px;}
+    .temp {font-size: 76px;}
 
     .search-box .search-bar {
-      width: 210px;
+      width: 190px;
+      padding: 15px;
     }
 
-    input::placeholder {font-size: 15px;}
+    .icon {
+      height: 250px;
+      width: 250px;
+    }
+
+    input::placeholder {font-size: 18px;}
 
   }
   
