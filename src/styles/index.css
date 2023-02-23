@@ -154,4 +154,16 @@
     .date {font-size: 22px;}
     .temp {font-size: 95px;}
   }
+
+  @media only screen and (max-width: 500px) {
+    .weather_description {font-size: 47px;}
+    .location {font-size: 25px;}
+    .date {font-size: 22px;}
+    .temp {font-size: 75px;}
+
+    .search-box .search-bar {
+      width: 210px;
+    }
+  }
+  
   
