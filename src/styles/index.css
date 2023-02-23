@@ -164,6 +164,9 @@
     .search-box .search-bar {
       width: 210px;
     }
+
+    input::placeholder {font-size: 15px;}
+
   }
   
   
